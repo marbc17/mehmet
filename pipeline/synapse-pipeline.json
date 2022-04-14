@@ -1,7 +1,0 @@
-{
-	"name": "synapse-pipeline",
-	"properties": {
-		"description": "sql db to synapse",
-		"annotations": []
-	}
-}
